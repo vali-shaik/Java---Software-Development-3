@@ -58,9 +58,7 @@ Constraints
 • You may use any data structures from the Java Collection Framework.
 • You may not use a library package to for your graph or for the algorithm to do
 matchings on your graph.
-• If in doubt for testing, I will be running your program on bluenose.cs.dal.ca. Correct
-operation of your program shouldn’t rely on any packages that aren’t available on that
-system.
+
 
 Notes
 =======
